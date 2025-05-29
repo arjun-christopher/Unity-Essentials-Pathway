@@ -75,6 +75,7 @@ crashlytics-build.properties
 # Webgl Sharing
 .webgl/
 .webgl-builds/
+webgl_sharing
 
 # PlasticSCM
 .plastic/
