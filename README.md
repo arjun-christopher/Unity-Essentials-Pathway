@@ -33,19 +33,6 @@ Before opening the project, make sure you have:
 2. Open Unity Hub, click "Open", and select the cloned project folder
 3. Wait for Unity Editor to compile and load the project
 
-## Project Structure
-
-```
-Assets/
-├── Scenes/          # Unity scenes (e.g., MainMenu, GameLevel)
-├── Scripts/         # C# behavior scripts for player, UI, etc.
-├── Prefabs/         # Reusable game object templates
-├── Materials/       # Material definitions for visual appearance
-├── Textures/        # Image assets used in materials or UI
-├── Audio/           # Background music and sound effects
-└── UI/              # UI elements like buttons, panels, and text
-```
-
 ## What You'll Learn
 
 This project covers the following Unity Essentials Pathway topics:
